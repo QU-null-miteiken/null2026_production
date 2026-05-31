@@ -1,0 +1,35 @@
+{
+   "cut_num": 250,
+   "common": {
+      "keyframe": [
+         "png"
+      ],
+      "animation": [
+         "zip"
+      ],
+      "coloring": [
+         "png"
+      ],
+      "objkeyframe": [
+         "png"
+      ],
+      "objanimation": [
+         "zip"
+      ],
+      "objcoloring": [
+         "png"
+      ],
+      "bg1": [
+         "png"
+      ],
+      "bg2": [
+         "png"
+      ],
+      "compo1": [
+         "mov"
+      ],
+      "compo2": [
+         "mov"
+      ]
+   }
+}
