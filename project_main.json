@@ -1,7 +1,7 @@
 {
    "cut_num": 250,
    "common": {
-      "lo": [
+      "layout": [
          "png"
       ],
       "keyframe": [
