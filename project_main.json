@@ -1,8 +1,11 @@
 {
    "cut_num": 250,
    "common": {
-      "keyframe": [
+      "lo": [
          "png"
+      ],
+      "keyframe": [
+	 "png"
       ],
       "animation": [
          "zip"
