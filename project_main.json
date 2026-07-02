@@ -5,13 +5,13 @@
          "png"
       ],
       "keyframe": [
-	 "png"
+	 "png|clip"
       ],
       "animation": [
-         "zip"
+         "zip|clip"
       ],
       "coloring": [
-         "png"
+         "png|clip"
       ],
       "objkeyframe": [
          "png"
