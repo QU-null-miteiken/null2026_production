@@ -5,7 +5,7 @@
          "png"
       ],
       "keyframe": [
-	 "png|clip"
+	 "png|clip|zip"
       ],
       "animation": [
          "zip|clip"
@@ -14,7 +14,7 @@
          "png|clip"
       ],
       "objkeyframe": [
-         "png"
+         "png|clip|zip"
       ],
       "objanimation": [
          "zip"
