@@ -5,22 +5,22 @@
 	 "lo"
       ],
       "keyframe": [
-         "png|clip"
+         "png|clip|zip"
       ],
       "animation": [
-         "zip"
+         "zip|clip"
       ],
       "coloring": [
-         "png"
+         "png|zip|clip"
       ],
       "objkeyframe": [
-         "png"
+         "png|clip|zip"
       ],
       "objanimation": [
-         "zip"
+         "clip|zip"
       ],
       "objcoloring": [
-         "png"
+         "png|clip|zip"
       ],
       "bg1": [
          "png"
@@ -29,7 +29,7 @@
          "png"
       ],
       "compo1": [
-         "mov"
+         "mov|csv"
       ],
       "compo2": [
          "mov"
