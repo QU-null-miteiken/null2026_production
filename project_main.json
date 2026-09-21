@@ -29,10 +29,10 @@
          "png"
       ],
       "compo1": [
-         "mov|csv"
+         "mov|csv|mp4"
       ],
       "compo2": [
-         "mov"
+         "mov|mp4"
       ]
    }
 }
