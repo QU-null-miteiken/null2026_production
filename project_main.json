@@ -23,10 +23,10 @@
          "png|clip|zip"
       ],
       "bg1": [
-         "png"
+         "png|zip"
       ],
       "bg2": [
-         "png"
+         "png|zip"
       ],
       "compo1": [
          "mov|csv|mp4"
