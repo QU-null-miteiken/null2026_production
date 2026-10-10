@@ -29,10 +29,10 @@
          "png|zip"
       ],
       "compo1": [
-         "mov|csv|mp4"
+         "mov|csv|mp4|png"
       ],
       "compo2": [
-         "mov|mp4"
+         "mov|mp4|png"
       ]
    }
 }
