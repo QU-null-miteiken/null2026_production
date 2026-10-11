@@ -33,6 +33,9 @@
       ],
       "compo2": [
          "mov|mp4|png"
+      ],
+      "timesheet": [
+         "csv|xlsx|png"
       ]
    }
 }
