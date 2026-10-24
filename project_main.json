@@ -29,10 +29,10 @@
          "png|zip"
       ],
       "compo1": [
-         "mov|csv|mp4|png"
+         "mov|csv|mp4|png|zip"
       ],
       "compo2": [
-         "mov|mp4|png"
+         "mov|mp4|png|zip"
       ],
       "timesheet": [
          "csv|xlsx|png"
